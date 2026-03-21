@@ -1,0 +1,7 @@
+node_modules
+dist
+amick-byram-website.zip
+.DS_Store
+*.local
+.env
+.env.*.local

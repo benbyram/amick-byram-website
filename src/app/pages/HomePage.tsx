@@ -84,10 +84,10 @@ export default function HomePage() {
                 initial={{ opacity: 0, y: 30 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
-                className="font-['Playfair_Display',serif] font-medium text-[#262626] text-4xl md:text-5xl lg:text-6xl leading-tight"
+                className="font-['Playfair_Display',serif] font-medium text-[#262626] text-4xl md:text-5xl lg:text-6xl leading-tight text-balance"
               >
                 A <span className="text-[#ef7452]">Voice</span> For The World's Change Makers{" "}
-                <span className="block mt-2">& Story Tellers</span>
+                <span className="md:block md:mt-2">& Story Tellers</span>
               </motion.h2>
 
               <motion.div

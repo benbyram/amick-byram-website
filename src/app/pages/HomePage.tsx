@@ -99,7 +99,7 @@ export default function HomePage() {
                 <div className="flex items-center gap-3">
                   <Sparkles className="w-6 h-6 text-[#ef7452] flex-shrink-0" />
                   <p className="font-['Playfair_Display',serif] font-medium text-[#262626] text-lg md:text-xl">
-                    2x Grammy nominated
+                    2× Grammy Award–nominated
                   </p>
                 </div>
                 <div className="flex items-center gap-3">
@@ -121,7 +121,7 @@ export default function HomePage() {
           </h3>
 
           <p className="font-['Playfair_Display',serif] font-medium text-[#5a5a5a] text-lg md:text-xl mb-8 max-w-4xl">
-            I'm a 2x Grammy nominated vocalist featured in hundreds of films and TV series, including The Prince of Egypt (as Moses), La La Land, Star Wars, The Simpsons, and Family Guy making me one of the most widely heard yet behind-the-scenes singers in the industry.
+            Amick Byram is a 2× Grammy Award–nominated vocalist whose voice has been featured in hundreds of films and television series, including The Prince of Egypt (as the singing voice of Moses), La La Land, Star Wars, The Simpsons, and Family Guy—making him one of the most widely heard yet behind-the-scenes singers in the industry.
           </p>
 
           <div className="mb-8">
@@ -185,7 +185,7 @@ export default function HomePage() {
           </h3>
 
           <p className="font-['Playfair_Display',serif] font-medium text-[#5a5a5a] text-lg md:text-xl mb-8 max-w-4xl">
-            I sing and speak at events for some of the world's most committed change makers—nonprofits, universities, and social impact leaders create moments that genuinely move people and stay with them long after the event ends.
+            Through singing and speaking at events for some of the world's most committed changemakers—including nonprofits, universities, and social impact leaders—Amick creates experiences that deeply move audiences and resonate long after the event concludes.
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -261,7 +261,7 @@ export default function HomePage() {
           </h3>
 
           <p className="font-['Playfair_Display',serif] font-medium text-[#5a5a5a] text-lg md:text-xl mb-12 max-w-4xl">
-            I help train the next generation of storytellers and performers through masterclasses, workshops, and coaching in musical theatre, singing, and acting. I've worked with students and programs at universities including USC, Biola, University of Oregon, Azusa Pacific, and Vanguard University.
+            Through masterclasses, workshops, and coaching in musical theatre, singing, and acting, Amick trains the next generation of storytellers and performers. His work includes students and programs at universities such as USC, Biola, the University of Oregon, Azusa Pacific, and Vanguard University.
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">

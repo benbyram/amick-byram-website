@@ -519,7 +519,7 @@ export default function Phone() {
         <span className="leading-[normal]">{`A `}</span>
         <span className="leading-[normal] text-[#ef7452]">Voice</span>
         <span className="leading-[normal]">{` For The World’s Change Makers  `}</span>
-        <span className="leading-[normal] text-[#ebece4]">{`& Story Tellers`}</span>
+        <span className="leading-[normal] text-[#ebece4]">{`& Storytellers`}</span>
       </p>
       <p className="-translate-x-1/2 absolute font-['Playfair_Display:Medium',sans-serif] font-medium leading-[normal] left-1/2 text-[#262626] text-[44px] text-center top-[21px] w-[950px]">AMICK BYRAM</p>
       <p className="absolute font-['Playfair_Display:Medium',sans-serif] font-medium leading-[0] left-[calc(6.25%+14.75px)] text-[#262626] text-[69px] top-[1083px] w-[878px]">
@@ -558,7 +558,7 @@ export default function Phone() {
       <p className="absolute font-['Playfair_Display:Medium',sans-serif] font-medium leading-[normal] left-[calc(6.25%+12.75px)] text-[#5a5a5a] text-[24px] top-[2222px] w-[1113px]">I sing and speak at events for some of the world’s most committed change makers—nonprofits, universities, and social impact leaders to create moments that genuinely move people and stay with them long after the event ends.</p>
       <p className="absolute font-['Playfair_Display:Medium',sans-serif] font-medium leading-[normal] left-[calc(6.25%+12.75px)] text-[#5a5a5a] text-[24px] top-[3302px] w-[1113px]">I help train the next generation of storytellers and performers through masterclasses, workshops, and coaching in musical theatre, singing, and acting. I’ve worked with students and programs at universities including USC, Biola, University of Oregon, Azusa Pacific, and Vanguard University.</p>
       <p className="absolute font-['Playfair_Display:Medium',sans-serif] font-medium leading-[normal] left-[calc(31.25%+48.75px)] text-[#5a5a5a] text-[24px] top-[1743px] w-[778px]">Plus over 500 films, TV shows, and videos games</p>
-      <p className="-translate-x-1/2 absolute font-['Playfair_Display:Medium',sans-serif] font-medium leading-[normal] left-[calc(71.88%+2.13px)] text-[#262626] text-[97px] text-center top-[294px] w-[704px]">{`& Story Tellers`}</p>
+      <p className="-translate-x-1/2 absolute font-['Playfair_Display:Medium',sans-serif] font-medium leading-[normal] left-[calc(71.88%+2.13px)] text-[#262626] text-[97px] text-center top-[294px] w-[704px]">{`& Storytellers`}</p>
       <div className="-translate-x-1/2 absolute h-[616px] left-[calc(43.75%+10.75px)] top-[287px] w-[1273px]" data-name="Screen Shot 2020-12-07 at 6.38.29 PM 1">
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <img alt="" className="absolute h-[100.32%] left-0 max-w-none top-0 w-full" src={imgScreenShot20201207At63829Pm1} />

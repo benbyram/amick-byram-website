@@ -87,7 +87,7 @@ export default function HomePage() {
                 className="font-['Playfair_Display',serif] font-medium text-[#262626] text-4xl md:text-5xl lg:text-6xl leading-tight text-balance"
               >
                 A <span className="text-[#ef7452]">Voice</span> For The World's Change Makers{" "}
-                <span className="md:block md:mt-2">& Story Tellers</span>
+                <span className="md:block md:mt-2">& Storytellers</span>
               </motion.h2>
 
               <motion.div
